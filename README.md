@@ -9,6 +9,7 @@ Cloud Security References
 ### Repos
 * https://github.com/aws-samples
 * https://github.com/awslabs
+* https://github.com/cloudsploit/scans
 * https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 ### Blogs
