@@ -16,3 +16,8 @@ Cloud Security References
 ### Training / Labs
 * https://www.qwiklabs.com/
 * https://acloud.guru/
+* https://aws.amazon.com/getting-started/use-cases/
+
+## GCP
+
+## Azure
