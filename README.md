@@ -19,6 +19,7 @@ Cloud Security References
 * https://www.qwiklabs.com/
 * https://acloud.guru/
 * https://aws.amazon.com/getting-started/use-cases/
+* https://aws.amazon.com/solutions/?hp=tile&tile=solutions
 
 ## GCP
 
