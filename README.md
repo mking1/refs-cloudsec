@@ -21,6 +21,9 @@ Cloud Security References
 * https://aws.amazon.com/getting-started/use-cases/
 * https://aws.amazon.com/solutions/?hp=tile&tile=solutions
 
+### Talks / Webinars
+* https://aws.amazon.com/about-aws/events/monthlywebinarseries/
+
 ## GCP
 
 ## Azure
