@@ -1,6 +1,9 @@
 # refs-cloudsec
 Cloud Security References
 
+## CSA
+* https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf
+
 ## AWS
 
 ### Whitepapers
