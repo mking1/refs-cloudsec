@@ -32,4 +32,5 @@ Cloud Security References
 ## Azure
 
 ### Training / Labs
+* https://www.microsoft.com/handsonlabs/SelfPacedLabs
 * https://msandbu.org/microsoft-azure-security-technologies-az-500-study-guide/
