@@ -30,3 +30,6 @@ Cloud Security References
 ## GCP
 
 ## Azure
+
+### Training / Labs
+* https://msandbu.org/microsoft-azure-security-technologies-az-500-study-guide/
