@@ -14,6 +14,7 @@ Cloud Security References
 * https://github.com/awslabs
 * https://github.com/cloudsploit/scans
 * https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+* https://github.com/RhinoSecurityLabs
 
 ### Blogs
 * https://aws.amazon.com/blogs/security/
